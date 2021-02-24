@@ -8,5 +8,8 @@ This repo includes both a .xlsm file with the macro already enabled as well as t
 
 **Instructions**
 1. Either download the .xlsm file or copy and paste the VBA into your own macro-enabled excel file.
-2. Copy and paste your DISS export contents into the the blank .xlsm excel table.
-3. Execute the macro 
+2. Copy and Paste your DISS export In Cell A:1. It is important you overwite all the content here including the instructions
+3. Enable macros: Go to the File tab > Options. On the left-side pane, select Trust Center, and then click Trust Center Settings… . In the Trust Center dialog box, click Macro Settings on the left, select Enable all macros and click OK.
+4. Go to the "View" tab in the toolbar.
+5. Click on "Macros" and select "View Macros."
+6. Run the DISS_Reformat macro
