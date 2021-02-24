@@ -6,6 +6,8 @@ The combination of merged cells and mis-aligned data in DISS makes the export ve
 
 This repo includes both a .xlsm file with the macro already enabled as well as the underlying Visual Basic (VBA) code which you can use. For those who have restrictive security policies or are wisely are untrusting of macro scripts from the internet, you can simply plug the VBA directly into your own Excel.
 
+![](diss-improve-preview.gif)
+
 **Instructions**
 1. Either download the .xlsm file or copy and paste the VBA into your own macro-enabled excel file.
 2. Copy and Paste your DISS export In Cell A:1. It is important you overwite all the content here including the instructions
