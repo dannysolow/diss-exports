@@ -8,6 +8,9 @@ This repo includes both a .xlsm file with the macro already enabled as well as t
 
 ![](diss-improve-preview.gif)
 
+**Disclaimer**
+This macro is experimental. Any data you enter into this excel-enabled workbook should be backed up. While potential impact is minimal, use at your own risk.  
+
 **Instructions**
 1. Either download the .xlsm file or copy and paste the VBA into your own macro-enabled excel file.
 2. Copy and Paste your DISS export In Cell A:1. It is important you overwite all the content here including the instructions
