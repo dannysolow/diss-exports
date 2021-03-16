@@ -11,6 +11,8 @@ This repo includes both a .xlsm file with the macro already enabled as well as t
 **Disclaimer**
 This macro is experimental. Any data you enter into a macro-enabled workbook should be backed up. While potential impact is minimal, use at your own risk.  
 
+**[Video Instructions](https://www.loom.com/share/8b0efe3fe5d142e395597d8cde6f42b1)**
+
 **Instructions**
 1. Either download the .xlsm file or copy and paste the VBA into your own macro-enabled excel file.
 2. Copy and Paste your DISS export In Cell A:1. It is important you overwite all the content here including the instructions
