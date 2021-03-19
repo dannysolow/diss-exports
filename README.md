@@ -15,8 +15,9 @@ This macro is experimental. Any data you enter into a macro-enabled workbook sho
 
 **Instructions**
 1. Either download the .xlsm file or copy and paste the VBA into your own macro-enabled excel file.
-2. Copy and Paste your DISS export In Cell A:1. It is important you overwite all the content here including the instructions
-3. Enable macros: Go to the File tab > Options. On the left-side pane, select Trust Center, and then click Trust Center Settings… . In the Trust Center dialog box, click Macro Settings on the left, select Enable all macros and click OK.
-4. Go to the "View" tab in the toolbar.
-5. Click on "Macros" and select "View Macros."
-6. Run the DISS_Reformat macro
+2. Download a DISS Subject Report in a .xlsx or .csv file format
+3. Copy and Paste your DISS export content in Cell A:1. It is important you overwite all the content here including the instructions
+4. Enable macros: Go to the File tab > Options. On the left-side pane, select Trust Center, and then click Trust Center Settings… . In the Trust Center dialog box, click Macro Settings on the left, select Enable all macros and click OK.
+5. Go to the "View" tab in the toolbar.
+6. Click on "Macros" and select "View Macros."
+7. Run the DISS_Reformat macro
