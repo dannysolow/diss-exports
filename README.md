@@ -14,7 +14,7 @@ This macro is experimental. Any data you enter into a macro-enabled workbook sho
 **[Video Instructions](https://www.loom.com/share/8b0efe3fe5d142e395597d8cde6f42b1)**
 
 **Instructions**
-1. Either download the .xlsm file or copy and paste the VBA into your own macro-enabled excel file.
+1. Either [download the .xlsm file](https://github.com/dannysolow/diss-exports/raw/main/DISSv2.xlsm) or copy and paste the VBA into your own macro-enabled excel file.
 2. Download a DISS Subject Report in a .xlsx or .csv file format
 3. Copy and Paste your DISS export content in Cell A:1. It is important you overwite all the content here including the instructions
 4. Enable macros: Go to the File tab > Options. On the left-side pane, select Trust Center, and then click Trust Center Settings… . In the Trust Center dialog box, click Macro Settings on the left, select Enable all macros and click OK.
