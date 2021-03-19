@@ -21,3 +21,4 @@ This macro is experimental. Any data you enter into a macro-enabled workbook sho
 5. Go to the "View" tab in the toolbar.
 6. Click on "Macros" and select "View Macros."
 7. Run the DISS_Reformat macro
+8. When complete, click File > Save As. Save the file to your preferred format with a new name. If you are using this to import data into ThreatSwitch, you should save the file in the .csv format.
