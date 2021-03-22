@@ -14,5 +14,16 @@ Range("R5").Value = "DATE ENROLLED"
 ActiveSheet.Range("1:4").EntireRow.Delete
 ActiveSheet.Range("B:B,F:G,J:J,N:N,Q:Q,S:S,U:U").EntireColumn.Delete
 
-End Sub
+lastrow = ActiveSheet.Range("A" & Rows.Count).End(xlUp).Row
+Rows(lastrow).Delete
 
+lastrow = ActiveSheet.Range("A" & Rows.Count).End(xlUp).Row
+Rows(lastrow).Delete
+
+lastrow = ActiveSheet.Range("A" & Rows.Count).End(xlUp).Row
+Rows(lastrow).Delete
+
+lastrow = ActiveSheet.Range("A" & Rows.Count).End(xlUp).Row
+Rows(lastrow).Delete
+
+End Sub
